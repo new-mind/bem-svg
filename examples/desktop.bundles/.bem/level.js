@@ -8,3 +8,11 @@ exports.getTechs = function () {
 
     return techs;
 }
+
+exports.getConfig = function () {
+    return {
+        bundleBuildLevels: this.resolvePaths([
+            '../../desktop.blocks'
+        ])
+    }
+}
