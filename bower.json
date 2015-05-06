@@ -1,0 +1,24 @@
+{
+  "name": "bem-svg",
+  "version": "0.0.0",
+  "homepage": "https://github.com/new-mind/bem-svg",
+  "authors": [
+    "Guro Bokum <jiojiajiu@gmail.com>"
+  ],
+  "description": "SVG tech for BEM",
+  "keywords": [
+    "svg",
+    "bem"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "snap.svg": "~0.4.1"
+  }
+}
