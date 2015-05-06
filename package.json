@@ -1,0 +1,26 @@
+{
+  "name": "bem-svg",
+  "version": "1.0.0",
+  "description": "SVG tech for BEM",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/new-mind/bem-svg.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/new-mind/bem-svg/issues"
+  },
+  "homepage": "https://github.com/new-mind/bem-svg",
+  "dependencies": {
+    "bower": "^1.4.1",
+    "q": "^1.3.0"
+  }
+}
